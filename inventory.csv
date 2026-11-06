@@ -1,0 +1,82 @@
+name,active_ingredient,form,category,ml_category,ml_conf,batch_no,expiry,days_left,status,flags,source
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Augmentin 625,amoxicillin clavulanate,tablet,antibiotic,antibiotic,0.78,B100,2026-09-17,-20,Expired,,demo
+Dolo 650,paracetamol,tablet,tablet_capsule,tablet_capsule,0.75,B101,2026-11-01,25,Expiring <=30d,,demo
+Asthalin,salbutamol,inhaler,inhaler,inhaler,0.88,B102,2026-12-06,60,Expiring <=90d,,demo
+Benadryl,diphenhydramine,syrup,liquid,liquid,0.6,B103,2026-07-09,-90,Expired,,demo
+Betadine,povidone iodine,ointment,topical,topical,0.78,B104,2027-04-25,200,OK,,demo
+Alprazolam 0.25,alprazolam,tablet,controlled,controlled,0.72,B105,2026-10-22,15,Expiring <=30d,,demo
+Cetirizine,cetirizine,tablet,tablet_capsule,tablet_capsule,0.69,B106,2027-11-11,400,OK,,demo
+Insulin pen,insulin glargine,injection,sharps,sharps,0.88,B107,2026-10-02,-5,Expired,,demo
+Meto 2.5,,tablet,tablet_capsule,tablet_capsule,0.58,5GCD015,2027-09-30,358,OK,,scan
