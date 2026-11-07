@@ -71,10 +71,7 @@ Photo → Gemini vision extraction → Rule-based checks → TF-IDF + Logistic R
 
 | Dashboard | Scan | Disposal |
 |:---:|:---:|:---:|
-| ![Dashboard](<img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/0ace6e1a-ad9c-404a-a23b-5ba9a7fb9427" />
-) | ![Scan](<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/c7f83659-ec21-424c-b215-7597f37b5cb2" />
-) | ![Disposal](<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/eb4c7aec-7d91-411e-aa73-717de2e16089" />
-) |
+| ![Dashboard]("C:\Users\badgu\OneDrive\Pictures\Screenshots\Screenshot (171).png") | ![Scan]("C:\Users\badgu\OneDrive\Pictures\Screenshots\Screenshot (172).png") | ![Disposal]("C:\Users\badgu\OneDrive\Pictures\Screenshots\Screenshot (174).png") |
 
 ---
 
