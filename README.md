@@ -13,7 +13,7 @@
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-success?style=for-the-badge&logo=streamlit)](YOUR-APP-URL)
 -->
 
-![MediGuard banner](banner.png)
+
 
 </div>
 
@@ -71,7 +71,10 @@ Photo → Gemini vision extraction → Rule-based checks → TF-IDF + Logistic R
 
 | Dashboard | Scan | Disposal |
 |:---:|:---:|:---:|
-| ![Dashboard](docs/dashboard.png) | ![Scan](docs/scan.png) | ![Disposal](docs/disposal.png) |
+| ![Dashboard](<img width="1920" height="1080" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/0ace6e1a-ad9c-404a-a23b-5ba9a7fb9427" />
+) | ![Scan](<img width="1920" height="1080" alt="Screenshot (172)" src="https://github.com/user-attachments/assets/c7f83659-ec21-424c-b215-7597f37b5cb2" />
+) | ![Disposal](<img width="1920" height="1080" alt="Screenshot (174)" src="https://github.com/user-attachments/assets/eb4c7aec-7d91-411e-aa73-717de2e16089" />
+) |
 
 ---
 
@@ -148,4 +151,4 @@ Open [http://localhost:8501](http://localhost:8501). No photos handy? Click **Lo
 ## 👤 Author
 
 **Rugved Badgujar**, final-year B.E. Computer Science (AI & ML), Mumbai University
-[GitHub](https://github.com/Roastyyy31) · [LinkedIn](#)
+[GitHub](https://github.com/Roastyyy31) · [LinkedIn](www.linkedin.com/in/rugved-badgujar-b8a4a925a)
