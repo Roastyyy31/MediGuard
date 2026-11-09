@@ -2,3 +2,5 @@
 venv/
 .env
 pyvenv.cfg
+
+desktop.ini
