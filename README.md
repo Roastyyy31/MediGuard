@@ -150,4 +150,4 @@ Open [http://localhost:8501](http://localhost:8501). No photos handy? Click **Lo
 
 **Rugved Badgujar**, final-year B.E. Computer Science (AI & ML), Mumbai University
 [GitHub](https://github.com/Roastyyy31) 
-[linkedin](www.linkedin.com/in/rugved-badgujar-b8a4a925a)
+[linkedin](https://www.linkedin.com/in/rugved-badgujar-b8a4a925a)
